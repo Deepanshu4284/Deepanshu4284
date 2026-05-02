@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Deepanshu%20Mohanty&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI-Augmented%20Analytics%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descAlignY=58&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Deepanshu%20Mohanty&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI-Augmented%20Analytics%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descAlignY=58&descSize=16" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu-mohanty-00b6b4266)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepanshu4284)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Analyst%20Roles-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white)]()
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Analyst%20Roles-2ea44f?style=for-the-badge)](https://www.linkedin.com/in/deepanshu-mohanty-00b6b4266)
 
 </div>
 
@@ -50,9 +50,9 @@ My edge? I combine classical BI skills — Python, SQL, Power BI, Advanced Excel
 ![LangGraph](https://img.shields.io/badge/LangGraph-%23FF6B35?style=for-the-badge)
 ![LangSmith](https://img.shields.io/badge/LangSmith-%23FD9801?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-00BFFF?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-00BFFF?style=for-the-badge&logo=meta&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-white?style=for-the-badge&logo=ollama&logoColor=black)
 
 ### 🧰 Dev Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -92,7 +92,7 @@ Autonomous AI agent enabling **natural language data analysis** on any CSV — n
 **Key Outcomes:**
 - 🧠 Powered by LangChain's ReAct framework + locally-run Ollama LLM
 - 🔁 Executes Pandas operations dynamically via Python REPL tool
-- 🏢 Scalable AI-augmented analytics pipeline for BI & automated reporting
+- 🏢 Scalable AI-augmented pipeline for BI & automated reporting
 - 🔓 Makes complex data accessible to non-technical stakeholders
 
 [![View Project](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepanshu4284/langchain-csv-agent)
@@ -120,8 +120,8 @@ RAG-based Q&A system for answering natural language queries from enterprise PDFs
 ### 🌱 Currently Building...
 **Advanced RAG · LLM Deployment · AI-Powered BI**
 
-- 📦 Exploring production RAG pipelines with reranking & hybrid search
-- 🚀 Learning to deploy LLM apps at scale with observability
+- 📦 Production RAG pipelines with reranking & hybrid search
+- 🚀 Deploying LLM apps at scale with observability
 - 📊 Bridging Power BI with AI-driven narrative generation
 
 *Watch this space — more projects dropping soon!*
@@ -165,22 +165,18 @@ RAG-based Q&A system for answering natural language queries from enterprise PDFs
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Deepanshu4284&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="170"/>
+<a href="https://github.com/Deepanshu4284">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Deepanshu4284&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" height="170" alt="GitHub Stats"/>
+</a>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu4284&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170"/>
+<a href="https://github.com/Deepanshu4284">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Deepanshu4284&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="170" alt="Top Languages"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepanshu4284&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=C9D1D9" />
+<img src="https://streak-stats.demolab.com/?user=Deepanshu4284&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
 
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Deepanshu4284/Deepanshu4284/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
 </div>
 
 ---
