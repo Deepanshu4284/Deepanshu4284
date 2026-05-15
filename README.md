@@ -84,6 +84,40 @@ End-to-end sales analysis across **466 orders**, **4 regions**, and **5 product 
 </td>
 <td width="50%" valign="top">
 
+### 📊 Business Insights 360 Dashboard
+**Power BI · DAX · Power Query · Data Modeling · Microsoft Fabric**
+
+5-view enterprise dashboard covering Finance, Sales, Marketing & Supply Chain.
+
+**Key Outcomes:**
+- 📐 20+ DAX measures: NS$, GM%, Net Profit%, Forecast Accuracy%, YoY Change
+- 🔁 Interactive slicers for region, customer, market, and time
+- ☁️ Migrated to Microsoft Fabric via Power BI Service
+
+[![View Project](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepanshu4284)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ Customer Behavior Dashboard
+**Power BI · DAX · Power Query · Data Modeling**
+
+Interactive Power BI dashboard analyzing **3,900+ customers** across demographics, categories, and shipping preferences.
+
+**Key Outcomes:**
+- 💵 Avg. purchase amount **$59.76** | Avg. review rating **3.75 / 5**
+- 👕 **Clothing** identified as top revenue & sales category
+- 🧑‍🤝‍🧑 **Young Adults** are the highest-spending age group
+- 🎯 27% subscription rate — 73% non-subscribers flagged as growth opportunity
+- 🔁 Dynamic slicers for Gender, Category, Shipping Type & Subscription Status
+
+[![View Project](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepanshu4284/customer-behavior-dashboard)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🤖 LangChain CSV Data Analysis Agent
 **Python · LangChain · Ollama · ReAct · Pandas**
 
@@ -115,20 +149,6 @@ RAG-based Q&A system for answering natural language queries from enterprise PDFs
 [![View Project](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepanshu4284/langchain-qa-doc-helper)
 
 </td>
-<td width="50%" valign="top">
-
-### 🌱 Currently Building...
-**Advanced RAG · LLM Deployment · AI-Powered BI**
-
-- 📦 Production RAG pipelines with reranking & hybrid search
-- 🚀 Deploying LLM apps at scale with observability
-- 📊 Bridging Power BI with AI-driven narrative generation
-
-*Watch this space — more projects dropping soon!*
-
-[![Follow for Updates](https://img.shields.io/badge/Follow%20for%20Updates-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepanshu4284)
-
-</td>
 </tr>
 </table>
 
@@ -138,6 +158,7 @@ RAG-based Q&A system for answering natural language queries from enterprise PDFs
 
 | 🎓 Certificate | 🏢 Platform | 📅 |
 |:---|:---|:---:|
+| **Power BI Data Analytics 3.0** | Codebasics — Dhaval Patel | May 2026 |
 | **Generative AI with Large Language Models** | DeepLearning.AI × AWS — Coursera | Aug 2025 |
 | **LangChain: Develop AI Agents with LangChain & LangGraph** | Udemy — Eden Marco | Oct 2025 |
 | **The Complete Python Bootcamp: Zero to Hero** | Udemy — Jose Portilla | Mar 2025 |
